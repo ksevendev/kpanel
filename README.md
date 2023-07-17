@@ -1,4 +1,4 @@
-# CyberPanel
+# KPanel is base in CyberPanel
 
 Web Hosting Control Panel that uses OpenLiteSpeed as the underlying Web Server.
 
